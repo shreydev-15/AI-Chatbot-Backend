@@ -1,0 +1,11 @@
+IO = entire server 
+socket = single user 
+
+events are of two types in socket io
+ 1. Predefined (built-in)events
+    - `connection`
+    - `disconnect`
+ 2. Custom events
+
+on = listen to an event
+emit = send an event
